@@ -406,7 +406,7 @@ input:-webkit-autofill {
     background: linear-gradient(120deg, #fff 70%, #3eb1fc 0%) !important;
 }
 .sec-grad-white-to-green {
-    background: linear-gradient(120deg, #fff 70%, #a3d133 0%) !important;
+    background: linear-gradient(120deg, #fff 70%, #a333d1 0%) !important;
 }
 .sec-grad-white-to-purple {
     background: linear-gradient(120deg, #fff 70%, #786fff 0%) !important;
@@ -424,7 +424,7 @@ input:-webkit-autofill {
     background: linear-gradient(120deg, #f3f3f3 70%, #786fff 0%) !important;
 }
 .sec-grad-grey-to-green {
-    background: linear-gradient(120deg, #f3f3f3 70%, #a3d133 0%) !important;
+    background: linear-gradient(120deg, #f3f3f3 70%, #4433d1 0%) !important;
 }
 .sec-grad-grey-to-blue {
     background: linear-gradient(120deg, #f3f3f3 70%, #29aaff 0%) !important;
@@ -454,7 +454,7 @@ input:-webkit-autofill {
     left: 0;
 }
 .total-grad-purple {
-    background: linear-gradient(240deg, #763efc 0%,#a80af9 100%);
+    background: linear-gradient(240deg, #763efcad 0%,#a80af9db 100%);
     position: absolute;
     display: block;
     top: 0;
